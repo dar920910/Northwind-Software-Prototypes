@@ -16,10 +16,10 @@
 
 * SQLite
 
-* Backend - Контейнеры - Подготовить стандартную конфигурацию контейнера Docker для проекта ( App.MVC + Backend.SQLite в одном образе )
-* Backend - База данных - SQLite - Перенести готовые наработки из курса DotNet-CrossPlatform-Part1 в проекты Backend.SQLite
-* Backend - Web API - SQLite - Перенести готовые наработки Web API из курса DotNet-CrossPlatform-Part1 в Northwind.Backend.SQLite.WebAPI
-* Backend - Модульные тесты - SQLite - Стартовые модульные тесты БД (возможность подключиться к БД с помощью контекста БД)
+  * Backend - Контейнеры - Подготовить стандартную конфигурацию контейнера Docker для проекта ( App.MVC + Backend.SQLite в одном образе )
+  * Backend - База данных - SQLite - Перенести готовые наработки из курса DotNet-CrossPlatform-Part1 в проекты Backend.SQLite
+  * Backend - Web API - SQLite - Перенести готовые наработки Web API из курса DotNet-CrossPlatform-Part1 в Northwind.Backend.SQLite.WebAPI
+  * Backend - Модульные тесты - SQLite - Стартовые модульные тесты БД (возможность подключиться к БД с помощью контекста БД)
 
 * MS SQL Server
 
