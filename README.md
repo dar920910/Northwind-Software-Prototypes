@@ -1,6 +1,12 @@
-# Northwind-OnlineShop-DemoProject
+# Northwind Software Prototypes
 
-Northwind Online Shop Demo Project contains the following projects:
+This repository contains software prototypes based on using the Northwind database.
+
+---
+
+## About This Solution
+
+The "Northwind Software Prototypes" solution includes the following projects:
 
 - **Common Library**
   - Northwind.Common.Domains
@@ -33,3 +39,5 @@ Northwind Online Shop Demo Project contains the following projects:
     - Northwind.Backend.OracleDatabase.DataContext
     - Northwind.Backend.OracleDatabase.EntityModels
     - Northwind.Backend.OracleDatabase.UnitTests
+
+---
